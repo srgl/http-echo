@@ -1,0 +1,19 @@
+{
+  "name": "http-echo",
+  "version": "1.0.0",
+  "description": "Docker http echo server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srgl/http-echo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srgl/http-echo/issues"
+  },
+  "homepage": "https://github.com/srgl/http-echo#readme"
+}

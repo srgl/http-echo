@@ -1,2 +1,2 @@
 # http-echo
-Docker http echo server
+Docker http echo server, logs requests to stdout
